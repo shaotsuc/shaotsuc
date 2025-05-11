@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Shao-Tsu 👋👨🏻‍💻
 
-<!--
-**shaotsuc/shaotsuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](media/banner.jpg)
 
-Here are some ideas to get you started:
+I’m a BI Process Engineer/Analyst with a passion for data - currently on the journey to stepping into **Data Analytics Engineer**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some technology I enjoy working with including Python, dbt (Data build tool), BigQuery and Snowflake.
+
+*Fun fact: I’m self-taught and made the leap from operations to BI, so I get to understand how tech and business teams think easier. It’s like being bilingual, but for data!*
+
+<br>
+
+## Projects for Data Analytics Engineering
+
+### [End-to-End ETL Data Pipeline - Crypto Market](https://github.com/shaotsuc/coincap-etl-data-pipeline)
+
+I built a Python + PostgreSQL + dbt + Airflow pipeline to fetch, clean, and store live crypto market data—then visualized it in Metabase.
+
+#### 💡 *Why?* 
+> To explore data engineering hands-on using open-source tools!
+
+<br><br>
+
+### [Data Modeling - Verification Summary](https://github.com/shaotsuc/dbt-data-model-verification-summary)
+
+I created dimensional models in dbt + PostgreSQL to turn raw data into an analysis-ready (or visualization-ready) dataset.
+
+#### 🎯 *Goal?*
+
+> To practice real-world dimensional modeling and make sure data is reliable and easy to use for dashboards or deeper analytics!
+
+<br><br>
+
+### [BI End-to-End Development - Sales Analysis](https://github.com/shaotsuc/bi-end-to-end-development-sales-analysis)
+
+I transformed raw data with dbt, loaded it into BigQuery, and built Power BI dashboards to track sales performance.
+
+#### ✅ *Outcome?* 
+
+> To dive further BI end-to-end development for business. Clean data + clear visuals = faster business decisions!
+
+<br>
+
+
+
+## Find me around the web 🌍:
+- [Linkedin]((https://www.linkedin.com/in/shaotsuchen/)) 💼
+- [DataCamp](https://www.datacamp.com/portfolio/shaotsuc) 👨🏻‍💻
+
