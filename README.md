@@ -44,6 +44,6 @@ I transformed raw data with dbt, loaded it into BigQuery, and built Power BI das
 
 
 ## Find me around the web 🌍:
-- [Linkedin]((https://www.linkedin.com/in/shaotsuchen/)) 💼
+- [Linkedin](https://www.linkedin.com/in/shaotsuchen/) 💼
 - [DataCamp](https://www.datacamp.com/portfolio/shaotsuc) 👨🏻‍💻
 
