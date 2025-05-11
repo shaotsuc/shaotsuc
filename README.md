@@ -19,7 +19,7 @@ I built a Python + PostgreSQL + dbt + Airflow pipeline to fetch, clean, and stor
 #### 💡 *Why?* 
 > To explore data engineering hands-on using open-source tools!
 
-<br><br>
+<br>
 
 ### [Data Modeling - Verification Summary](https://github.com/shaotsuc/dbt-data-model-verification-summary)
 
@@ -29,7 +29,7 @@ I created dimensional models in dbt + PostgreSQL to turn raw data into an analys
 
 > To practice real-world dimensional modeling and make sure data is reliable and easy to use for dashboards or deeper analytics!
 
-<br><br>
+<br>
 
 ### [BI End-to-End Development - Sales Analysis](https://github.com/shaotsuc/bi-end-to-end-development-sales-analysis)
 
