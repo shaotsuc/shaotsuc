@@ -2,11 +2,11 @@
 
 ![banner](media/banner.jpg)
 
-I’m a BI Process Engineer/Analyst with a passion for data - currently on the journey to stepping into **Data Analytics Engineer**. 
+I’m a **Data Analytics Engineer**. 
 
 Some technology I enjoy working with including Python, dbt (Data build tool), BigQuery and Snowflake.
 
-*Fun fact: I’m self-taught and made the leap from operations to BI, so I get to understand how tech and business teams think easier. It’s like being bilingual, but for data!*
+*Fun fact: I’m self-taught and made the leap from operations, BI to now Data Engineering, so I get to understand how tech and business teams think easier. It’s like being bilingual, but for data!*
 
 <br>
 
