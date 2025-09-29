@@ -10,6 +10,26 @@ Some technology I enjoy working with including Python, dbt (Data build tool), Bi
 
 <br>
 
+![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?&logo=snowflake&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache%20Airflow&logoColor=red) 
+![Tableau](https://img.shields.io/badge/tableau-eb7e24?&logo=tableau&logoColor=orange)
+![Looker](https://img.shields.io/badge/looker-%234285F4?&logo=looker&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?&logo=powerbi&logoColor=black)
+![Polars](https://img.shields.io/badge/polars-%23121011.svg?&logo=polars&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%23121011.svg?&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?&logo=jira&logoColor=white)
+
+
+<br>
+
 ## Projects for Data Analytics Engineering
 
 ### [End-to-End ETL Data Pipeline - Crypto Market](https://github.com/shaotsuc/coincap-etl-data-pipeline)
