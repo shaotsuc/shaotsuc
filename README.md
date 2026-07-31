@@ -2,11 +2,11 @@
 
 ![banner](media/banner.jpg)
 
-I’m a **Data Analytics Engineer**. 
+I’m a **BI / Data Analytics Engineer**. 
 
-Some technology I enjoy working with including Python, dbt (Data build tool), BigQuery and Snowflake.
+Some technology I enjoy working with including Python, dbt (Data build tool), Google Cloud Platform (GCP), Snowflake and Apache Airflow. *(of course, so much more!)*
 
-*Fun fact: I’m self-taught and made the leap from operations, BI to now Data Engineering, so I get to understand how tech and business teams think easier. It’s like being bilingual, but for data!*
+*Fun fact: I’m self-taught and made the leap from operations to now BI / Data Engineering, so I get to understand how tech and business teams think easier. It’s like being bilingual, but for data!*
 
 <br>
 
@@ -64,6 +64,7 @@ I transformed raw data with dbt, loaded it into BigQuery, and built Power BI das
 
 
 ## Find me around the web 🌍:
+- [Tableau Public](https://public.tableau.com/app/profile/shaotsuchen) 📊
 - [Linkedin](https://www.linkedin.com/in/shaotsuchen/) 💼
 - [DataCamp](https://www.datacamp.com/portfolio/shaotsuc) 👨🏻‍💻
 
