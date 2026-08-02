@@ -61,6 +61,14 @@ I transformed raw data with dbt, loaded it into BigQuery, and built Power BI das
 
 <br>
 
+### [Great Expectation framework - Casino Games dataset](https://github.com/shaotsuc/casino-games-dataset-great-expectations)
+This project explores the fundamentals of data quality validation using the Great Expectations framework.
+
+#### ✅ *Outcome?* 
+> Understood how this framework can be integrated into a production-level data pipeline.
+
+
+<br>
 
 
 ## Find me around the web 🌍:
